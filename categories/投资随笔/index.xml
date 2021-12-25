@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>投资随笔 on 数据驱动投资</title>
+    <link>http://example.org/categories/%E6%8A%95%E8%B5%84%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 投资随笔 on 数据驱动投资</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Dec 2021 00:18:07 +0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%8A%95%E8%B5%84%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Researcher to Strategist</title>
+      <link>http://example.org/post/from-research-to-strategist/</link>
+      <pubDate>Sun, 26 Dec 2021 00:18:07 +0800</pubDate>
+      
+      <guid>http://example.org/post/from-research-to-strategist/</guid>
+      <description>2021年，我实现了从研究员向策略师的转变。</description>
+    </item>
+    
+  </channel>
+</rss>
