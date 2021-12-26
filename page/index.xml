@@ -6,7 +6,19 @@
     <description>Recent content in Pages on 数据驱动投资</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>http://example.org/page/about/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/page/about/</guid>
+      <description>关于我 我是一名从事全球固定收益投资的策略师，致力于通过数据驱动的方式理解金融市场并获取Alpha收益。
+关于数据驱动投资 数量化投资策略不是黑箱，不是洪水猛兽，也不是数据挖掘和无法解释的统计规律。数量化投资策略意味着系统性的思考、精细化的操作和经过数据验证的投资框架。我认为，尽管全世界不存在两种完全相同的资产，但不同资产的定价规律是相通的，数量化投资策略利用数学和统计学方法，科学的探究各类资产定价规律，在各资产类别之间或单一资产不同时点的价格之间寻找系统性定价偏误，获取Alpha收益。
+传统观点往往将基本面研究和数量化研究对立起来，认为基本面研究讲演绎，数量化研究讲归纳，两者是并列的投资流派。我认为，数量化研究和基本面研究应是递进而非并列关系。优秀的数量化研究一定是基于深度的基本面研究的思考之上的归纳，其本身就包含了基本面研究过程中沉淀下来的逻辑演绎。数量化研究的目的是减少投资中艺术的部分，减少因为人的认知偏差导致的主观失误。数量化研究和学术研究的过程是类似的，都强调严谨的科学精神，只是在理论和实践的比重上与学术研究有所差别。经济学向经济科学的转变正是因为数理模型的引入减少了经济学理论的艺术性，增强了其可实验、可验证性。基于此，我认为，伴随各类投资理念的成熟和发展，深度基本面研究驱动投资的时代已经过去，未来终将属于数据驱动的数量化投资时代。
+身处数据爆炸和计算技术快速发展并引领资管行业变革的大时代，一个优秀的数量化策略投资人员应肩负科学家和工程师两种身份。身为科学家，需要紧跟资产定价的理论前沿，及时将投资过程中产生的灵感转化为严谨的科学思考；身为工程师，需要对复杂的统计学和金融学理论进行算法实现。本网站也将开设投资思考和编程技巧两大模块，激励我在成为一名优秀的数量化策略投资人员的道路上不断精进。</description>
+    </item>
+    
     <item>
       <title>Archives</title>
       <link>http://example.org/page/archives/</link>
@@ -14,17 +26,6 @@
       
       <guid>http://example.org/page/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://example.org/page/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/page/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
     <item>
